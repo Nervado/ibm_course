@@ -1,1 +1,1 @@
-Sammple repo with jupyter notebook
+Sample repo with jupyter notebook
