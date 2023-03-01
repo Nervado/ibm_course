@@ -1,1 +1,1 @@
-# ibm_course
+Sammple repo with jupyter notebook
